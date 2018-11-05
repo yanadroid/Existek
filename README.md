@@ -5,4 +5,4 @@
 <img src="/screens/device-2018-11-05-145700.png" width="285">
 <img src="/screens/device-2018-11-05-145724.png" width="285">
 
-[Demo APK]:https://github.com/yanadroid/PhotoApp.apk
+[Demo APK]:Existek/PhotoApp.apk
